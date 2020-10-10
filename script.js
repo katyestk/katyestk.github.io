@@ -1,5 +1,5 @@
 var lsgwoerter = [
-["C", "H", "O", "C", "O", "L", "A", "T", "E"],
+["K", "A", "T", "E", "", "A", "S", "K", "E", "D", "C", "H","A","R","L","Y","", "S","A","I","D", "","Y","E","S"],
 ]
 var random = Math.floor((Math.random()*(lsgwoerter.length-1)));
 
