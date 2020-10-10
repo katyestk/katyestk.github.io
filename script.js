@@ -7,7 +7,7 @@ var lsgwort = lsgwoerter[random]; // the word to guess will be chosen from the a
 var ratewort = new Array(lsgwort.length);
 var fehler = 0;
 
-// every letter in the word is symbolized by an underscore in the guessfield
+// every letter in the word is symbolized by an underscore in the guessfield - test
 for (var i = 0; i < ratewort.length; i++){
 	ratewort[i] = "_ ";
 }
