@@ -1,5 +1,5 @@
 var lsgwoerter = [
-["K", "A", "T", "E", "", "A", "S", "K", "E", "D", "C", "H","A","R","L","Y","", "S","A","I","D", "","Y","E","S"],
+["E","N","G","A","G","E","D"],
 ]
 var random = Math.floor((Math.random()*(lsgwoerter.length-1)));
 
@@ -58,12 +58,12 @@ var pruefeZeichen = function(){
 		}
 	}
 	if(fertig){
-		window.alert("Well done! You guessed correctly");
+		window.alert("We're Engaged!");
 	}
 
 	//once you got six wrong letters, you lose
 	if(fehler === 6){
-		window.alert("Uh...did I keep the receipt?.");
+		window.alert("Umm... Try again");
 	}
 }
 
